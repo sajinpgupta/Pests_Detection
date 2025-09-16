@@ -19,7 +19,6 @@ Pests_Detection/
 │── Images/ # Place your input trap images here
 │── requirements.txt # Dependencies
 
-
 ---
 
 ## 🔧 Installation
