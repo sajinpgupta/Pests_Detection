@@ -1,0 +1,14 @@
+
+---
+
+### 📦 requirements.txt
+```txt
+opencv-python
+pillow
+git+https://github.com/openai/CLIP.git
+torch
+torchvision
+ultralytics
+matplotlib
+numpy
+requests
